@@ -1,5 +1,6 @@
 import React from 'react';
 
+// @ts-ignore
 import Logo from '../../assets/Logo.svg';
 
 import { Button } from './styles';

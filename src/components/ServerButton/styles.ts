@@ -21,8 +21,8 @@ export const Button = styled.button<Props>`
   cursor: pointer;
 
   > img {
-    width: 24px;
-    height: 24px;
+    width: 25px;
+    height: 30px;
   }
 
   &::before {
